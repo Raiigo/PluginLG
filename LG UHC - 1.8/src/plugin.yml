@@ -1,0 +1,7 @@
+name: LGUHC
+version: 0.0.4
+author: Raiigo
+main: fr.raiigo.lguhc.Main
+commands:
+  lg:
+    description: Cette command permet de gerer tout le plugin
